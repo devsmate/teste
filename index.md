@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+ <img src="assets/projeto.jpg">
